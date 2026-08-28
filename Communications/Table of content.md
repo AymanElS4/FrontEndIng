@@ -9,6 +9,6 @@ This document summarizes the contents of the "Communications folder" based on th
 | `evidencia 3.png` | Evidence record | Image (PNG) | Ayman El Salous | 28/05/2026 13h30 pm |
 | `video1589426602- Sprint 2.mp4` | Sprint 2 documentation | Video (MP4) | Ayman El Salous, Danilo Drouet, Diego Alfonzo, Jefferson Saltos, Christian Macías | 24/06/2026 21h40 |
 | `video1671522101-First communication.mp4` | First sprint communication record | Video (MP4) | Ayman El Salous | 28/05/2026 13h40 pm |
-
+| `Grabación-8-21-2026-Sprint 3 and 4.mp4` | Third and four sprint communication record | Video (MP4) | Ayman El Salous | 21/08/2026 21h00 pm |
 
 
